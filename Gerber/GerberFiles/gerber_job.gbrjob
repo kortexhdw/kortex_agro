@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-23T11:58:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Kortex_Agro"
+        },
+        "Owner": "Amin Mansouri <amin2000@hotmail.es>",
+        "Size": {
+            "X": 73.64,
+            "Y": 82.22
+        }
+    }
+}

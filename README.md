@@ -1,1 +1,1 @@
-Kortex AGRO schematic and board, enjoy!
+Kortex AGRO open-source board files, enjoy! 
